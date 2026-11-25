@@ -1,0 +1,7 @@
+Cache/
+Workspaces/
+PluginsUserPreferences/
+ls-live-instance.json*
+*.esproj.*.lock
+*.pem
+.DS_Store

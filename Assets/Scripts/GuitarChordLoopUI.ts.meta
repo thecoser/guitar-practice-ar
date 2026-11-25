@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/9d79609d-a273-4e47-98ea-dff5860434e2>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 29a0deef-8359-49a1-bcbe-33cb685ac267
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 29a0deef-8359-49a1-bcbe-33cb685ac267
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 0ebce62b-1400-498d-a7bb-21d9ffa22077
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/0ebce62b-1400-498d-a7bb-21d9ffa22077>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  RunInEditor: false
+  ComponentUid: c58df9f3-2de5-4235-96c0-4d7c2d9cd353
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    chartTextScale: false
+    diagramMaterial: false
+    layoutSideBySide: false
+    previewArtworkMaterial: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - diagramMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      previewArtworkMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      layoutSideBySide: false
+      chartTextScale: !<float> 1.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.Material diagramMaterial
+    - // @input Asset.Material previewArtworkMaterial
+    - // @input bool layoutSideBySide = true
+    - // @input float chartTextScale = 1

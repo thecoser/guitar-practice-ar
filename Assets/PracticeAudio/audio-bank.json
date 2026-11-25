@@ -1,0 +1,151 @@
+{
+  "source": "Original deterministic synthesis; no third-party audio or samples.",
+  "sample_rate": 22050,
+  "channels": 1,
+  "bank": [
+    {
+      "name": "PracticeGuitarEm",
+      "file": "PracticeAudio/PracticeGuitarEm.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeGuitarG",
+      "file": "PracticeAudio/PracticeGuitarG.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeGuitarC",
+      "file": "PracticeAudio/PracticeGuitarC.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeGuitarD",
+      "file": "PracticeAudio/PracticeGuitarD.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeGuitarAm",
+      "file": "PracticeAudio/PracticeGuitarAm.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeGuitarA",
+      "file": "PracticeAudio/PracticeGuitarA.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeGuitarD7",
+      "file": "PracticeAudio/PracticeGuitarD7.wav",
+      "seconds": 1.6,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassEm",
+      "file": "PracticeAudio/PracticeBassEm.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassG",
+      "file": "PracticeAudio/PracticeBassG.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassC",
+      "file": "PracticeAudio/PracticeBassC.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassD",
+      "file": "PracticeAudio/PracticeBassD.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassAm",
+      "file": "PracticeAudio/PracticeBassAm.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassA",
+      "file": "PracticeAudio/PracticeBassA.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBassD7",
+      "file": "PracticeAudio/PracticeBassD7.wav",
+      "seconds": 0.7499773242630385,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysEm",
+      "file": "PracticeAudio/PracticeKeysEm.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysG",
+      "file": "PracticeAudio/PracticeKeysG.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysC",
+      "file": "PracticeAudio/PracticeKeysC.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysD",
+      "file": "PracticeAudio/PracticeKeysD.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysAm",
+      "file": "PracticeAudio/PracticeKeysAm.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysA",
+      "file": "PracticeAudio/PracticeKeysA.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKeysD7",
+      "file": "PracticeAudio/PracticeKeysD7.wav",
+      "seconds": 1.3999546485260772,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeKick",
+      "file": "PracticeAudio/PracticeKick.wav",
+      "seconds": 0.3,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeBrush",
+      "file": "PracticeAudio/PracticeBrush.wav",
+      "seconds": 0.3,
+      "peak": 0.65
+    },
+    {
+      "name": "PracticeHat",
+      "file": "PracticeAudio/PracticeHat.wav",
+      "seconds": 0.3,
+      "peak": 0.65
+    }
+  ]
+}

@@ -1,0 +1,4184 @@
+- !<AssetImportMetadata/98d97e81-d66c-443f-bd6d-e420d4c6e03e>
+  ImportedAssetIds:
+    .hidden/Blue sleeve: !<reference> e68ab478-ba4d-4d95-a3a4-e903d402e01b
+    0a681f7d75468b65: !<reference> 6f3dbea5-dca8-416a-b0b4-25c203e65cfd
+    0c52852b217dd8dc: !<reference> 911b5e82-4c4d-4f48-87aa-703b57498563
+    25b977e2b5d63a80: !<reference> c43a6beb-ec72-458e-befc-e29bcaacbed3
+    26ba073d67b9d0dd: !<reference> a38fa60f-a4d2-47ab-ae5c-3554574a9441
+    3454f178225b3599: !<reference> f6d9d278-b6bb-4677-9106-20c34e18c863
+    5110e916b2d43bed: !<reference> b97d75ed-553f-45c3-832b-7ac2e32c018c
+    52947404af2a7ace: !<reference> c2bc8001-3360-4f87-8d88-9a89f53868e3
+    551505b2d6c3c487: !<reference> 0b4d0cf6-a145-41c8-ba1d-034102979ff7
+    66a5a3ee1bd6e340: !<reference> ba00f570-f0c6-4a94-b9fa-4d065bf5ab6a
+    79e09852a04c6076: !<reference> 26d0a3ff-90bc-4515-bc66-73a0a73ad6c9
+    7a6aa980cf14f311: !<reference> ccec00db-e0f8-4f16-a4e6-7a577ee08a59
+    7c5c9b2e2a6391c0: !<reference> ab0afeb6-6efc-4cf9-b18f-33b571f8587b
+    7db3c8c2f9e30190: !<reference> 45caa329-0f42-473e-a7bc-44f38d9ca057
+    7fee32ee99604928: !<reference> 612f1bdd-3d26-4e06-afad-b4c4f15b18cc
+    88ab437fd121cc69: !<reference> d6c25ce9-8da0-4812-bcad-05385a63fb00
+    8df2c56120abe70b: !<reference> f79e9899-0f5e-4487-b8ef-b583ff44f8e7
+    Materials/Blue sleeve: !<reference> c0f76a6c-88ac-406e-bed6-563278d08a0b
+    Materials/Blue sleeve|Blue sleeve|GraphPassInfo: !<reference> f097d1ab-e460-4eb6-9a2a-406e09d4b8c8
+    Materials/Bone nut and saddle: !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+    Materials/Bone nut and saddle|Bone nut and saddle|GraphPassInfo: !<reference> 7baf9c24-cdb3-4cdd-a557-bb90092bf61f
+    Materials/Fingernails: !<reference> 18f55705-edd3-4ba9-875e-93ef1fef9d58
+    Materials/Fingernails|Fingernails|GraphPassInfo: !<reference> 383d1d1a-fcad-4d0c-83aa-c68a905e7f42
+    Materials/Fretboard and pickguard: !<reference> dc04e8fa-1bef-4fde-9760-22fa2f2d60f0
+    Materials/Fretboard and pickguard|Fretboard and pickguard|GraphPassInfo: !<reference> bebc1722-e252-4e47-a31d-7305c34a49f6
+    Materials/Hand contour: !<reference> b38ca6d2-fb2c-4ee5-862c-fabe3440a90e
+    Materials/Hand contour|Hand contour|GraphPassInfo: !<reference> 0eab9db5-48dd-4996-982e-57c929a7f93a
+    Materials/Honey spruce: !<reference> 0ba4bb55-defa-4e01-88ba-8fb49a8bb18c
+    Materials/Honey spruce|Honey spruce|GraphPassInfo: !<reference> 8e7a0670-f8f6-44ac-982e-99beb38d191d
+    Materials/Light spruce grain: !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+    Materials/Light spruce grain|Light spruce grain|GraphPassInfo: !<reference> 9338be7e-dc83-4201-84f1-1425c4d1e1fd
+    Materials/Nickel strings and frets: !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+    Materials/Nickel strings and frets|Nickel strings and frets|GraphPassInfo: !<reference> b4a516f3-e1bd-486e-bd4e-408c1743d0ef
+    Materials/Open spruce grain: !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+    Materials/Open spruce grain|Open spruce grain|GraphPassInfo: !<reference> e3959556-34d7-4375-be37-9067613e2979
+    Materials/Rosewood binding: !<reference> 34b981f6-7e58-44b7-b117-226bd5ec5d17
+    Materials/Rosewood binding|Rosewood binding|GraphPassInfo: !<reference> 2e98c5c4-7463-42fc-a210-310a47a86c1a
+    Materials/Sound hole: !<reference> a6f14a69-cf35-405d-8b7c-a3c60975d615
+    Materials/Sound hole|Sound hole|GraphPassInfo: !<reference> f392b8e8-7370-4e4f-b278-4e9cb5c08eb6
+    Materials/Warm rosewood: !<reference> 2360a467-8eb3-4785-b1d9-28d5496fe3bc
+    Materials/Warm rosewood|Warm rosewood|GraphPassInfo: !<reference> 903e2f92-f15d-4362-9a96-14826d9fbf03
+    Materials/Warm skin: !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+    Materials/Warm skin|Warm skin|GraphPassInfo: !<reference> 3df323e9-0e41-4491-be2e-2fe8050ae436
+    Meshes/Blue sleeve: !<reference> 19f56f78-0f9c-451f-91b7-84d03ca96c8f
+    Meshes/Bone nut and saddle: !<reference> 4142ec10-e336-493d-9e0a-840d4cb69390
+    Meshes/Fingernails: !<reference> 63a96108-2745-46c1-a108-99e40756e01f
+    Meshes/Fretboard and pickguard: !<reference> e97d102d-9d3d-4468-b6ac-64d01f57f4c7
+    Meshes/Hand contour: !<reference> 15756fd3-3fd1-4ccb-ab15-7d7da2cf6ed2
+    Meshes/Honey spruce: !<reference> 6e208569-2ba0-4867-9c62-45cbc6e27cfc
+    Meshes/Light spruce grain: !<reference> d82d99da-46e6-4e2a-820d-3bb28af0a894
+    Meshes/Nickel strings and frets: !<reference> 6a85561d-239c-485a-a7bb-602c3615f1dc
+    Meshes/Open spruce grain: !<reference> bf3e6949-b9f8-4669-a326-bf5fd53b663a
+    Meshes/Rosewood binding: !<reference> cbe30e48-d2bc-453f-bba1-a247eb3c567e
+    Meshes/Sound hole: !<reference> ab5a7ffe-b3d9-4f4a-8801-2be3949ecb35
+    Meshes/Warm rosewood: !<reference> 5af67e3c-c197-4c53-b35f-17758a958d40
+    Meshes/Warm skin: !<reference> 5b79ccfd-24bf-40db-bbb7-f380f007ae9b
+    Scene: !<reference> 764fc9ec-e648-4762-9a16-d2d7c56f7c6a
+    a012364fb59d383c: !<reference> 3ad343fd-2dab-4558-bf40-ab44711f935e
+    b3af929585158209: !<reference> 2dec680e-27e2-41f5-9e30-b671c152895f
+    b6e287967fd69a56: !<reference> 14f3b53a-83a2-44d3-a1d3-16c0c3d67938
+    bd0494c80be34e99: !<reference> 0496a647-cc26-4bcd-a817-ae1641b1413f
+    c43d07a19ce7aa91: !<reference> 575707f0-f4bc-4943-af15-d9a6b9652bd4
+    c6fadf62298ad364: !<reference> 9cf8fa54-1704-474b-bfd2-f0d9a13ae8d0
+    c7179db3f6b24ea6: !<reference> c2ee0f1e-61c6-4017-8d82-537b23d3e063
+    cfcd8cf65c0a1894: !<reference> 704a9aa2-eb51-4d3e-933d-94ed82b4b9e8
+    d2b0ed4c70362015: !<reference> c6931320-255c-4a49-a9b7-aadb2775d7bc
+    df04244cb6c54b27: !<reference> bb400d37-0df8-4a0e-89be-ad7c4a056ab2
+    e0b7d3d37711d4d5: !<reference> 4ed64a26-e3b5-4ef1-b986-f4ed1b6e9c03
+    eed7275a5ffbd1e5: !<reference> ed32443b-bdba-4b87-82f6-355dd539b162
+    fb7bc74a852203ee: !<reference> 2d2a588f-fe3b-47fb-87cd-4c01390a7ef5
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 764fc9ec-e648-4762-9a16-d2d7c56f7c6a
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 6ec8fa1b-7c17-4ebd-8dd0-aab157f3241d
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBasedV2
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+    OptimizeMesh: true
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<FileCompressionSettings>
+        {}
+    ExtensionMappings:
+      mesh: None Compression
+    Overrides:
+      {}
+- !<RenderMeshVisual/00e5fa34-4333-49b5-4cf9-bedcc9006585>
+  PrefabRemaps:
+    []
+  Name: Fret 2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> a8d8372e-9351-497f-8cb9-18de5aeb3cd3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/038130a2-626a-4fee-6a93-92cfbb4ae75e>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419538f
+- !<SceneObject/03b83651-1f46-461f-5ce7-241f5b8051a3>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419536f
+- !<SceneObject/0529b6eb-50ec-47c5-4e42-ff03e17398e7>
+  PrefabRemaps:
+    []
+  Name: Fret 6
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b4dc7635-4c89-40ae-51ef-410d05e1aab7
+- !<SceneObject/070985f4-8d6a-45ff-7938-6e55b6162093>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195369
+- !<SceneObject/082dcaeb-5cc7-4301-754f-b17cd231a646>
+  PrefabRemaps:
+    []
+  Name: Fret 7
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5549a12a-b8c9-4238-7b88-c666683b3b5c
+- !<SceneObject/097fc9f8-02c5-482c-41c1-3ab44905d903>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195313
+- !<RenderMeshVisual/0ab7e934-6a6a-4518-5207-e7fa14a2ef11>
+  PrefabRemaps:
+    []
+  Name: Headstock
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2360a467-8eb3-4785-b1d9-28d5496fe3bc
+  Mesh: !<reference> 57711c47-fd3e-44c6-a1aa-1efd63b9f9b9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/0b474012-aac9-4b0c-796b-30f442e9e750>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195317
+- !<SceneObject/0d1b853d-338e-4c65-48c2-f92a6e748832>
+  PrefabRemaps:
+    []
+  Name: Tapered fretboard
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8ff4dfd7-76e8-4364-7d23-554ef23ef3ae
+- !<RenderMeshVisual/1467f1ff-f61f-4228-6f89-88a81b4a5db6>
+  PrefabRemaps:
+    []
+  Name: Wrist
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b38ca6d2-fb2c-4ee5-862c-fabe3440a90e
+  Mesh: !<reference> a0742bf9-5caf-4637-81fa-bac01554c7ef
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/15fe3dff-a28c-4e4f-552a-cc56c55c72ec>
+  PrefabRemaps:
+    []
+  Name: Saddle
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> dfff7c3f-96b1-49eb-8668-11130120320f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/1700be3d-c9b7-4576-5477-cb5560018a87>
+  PrefabRemaps:
+    []
+  Name: Middle curled tip
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> fce9ceec-872b-4068-a684-a25896152de3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/187545bb-7f51-46c9-55b8-99c5ff89c2dd>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> aa18aaee-4de1-47ce-5672-d66ee788f910
+- !<SceneObject/19d03cdc-0399-4b35-7a4e-8780534c1f8c>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952eb
+- !<RenderMeshVisual/19f100b1-5a01-493e-5ad0-7fd7a2baa9fb>
+  PrefabRemaps:
+    []
+  Name: Steel string 5
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 370abe5d-1de7-4445-9558-7c849435a94b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1c38dc84-a192-4fdc-7cf3-9a9c9762e5eb>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195321
+- !<RenderMeshVisual/1e902c14-fb35-420d-5338-e5051eac2d36>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 04b582e7-c21f-4c4b-91f8-766667189b66
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1e9b34e8-a556-4fdd-50b2-139e198bebee>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195315
+- !<SceneObject/1f35468b-eea8-4c1b-4dd2-bef6fa4ea246>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195371
+- !<SceneObject/20724f36-58f3-4130-5357-67ef36ff4f40>
+  PrefabRemaps:
+    []
+  Name: Middle fingernail
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fef45528-95c8-43fc-45d9-29fa96c75607
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952eb>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> bc72f166-af47-4b2b-bf34-0e9a877be03c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952ed>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> a79d9cff-41ce-4657-8df3-8082ec16e923
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952f3>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 0cded953-e2ba-4b30-8d3f-953ff40eefbc
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952f7>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 65813981-05f0-43ff-871f-7f02ca07a92f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952fb>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 6e0e2a4c-5866-4dd4-8bff-f14399e628cc
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952fd>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> b8490421-8e76-4bd7-a95d-3cc69632fa21
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741952ff>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 143395d0-c9bb-4268-bb50-74873d1554b0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195303>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 7cb32f2b-942d-4d83-862c-1dc479b9da54
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195305>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> dcf03aec-f9fe-4d57-bcb2-0aabdadc2638
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195307>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> fcc1b37f-b9be-4a06-8eec-f74b77a45d86
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419530d>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> adb326eb-265e-482b-870b-eed04e3c0449
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419530f>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 29453253-c3ed-4cb9-8b4d-e99da4cd9a8a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195313>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> c6cd7619-fc02-4b7f-9cd7-40069bb26bad
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195315>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 31d37bd9-4f94-4fa9-abfb-61908b3fbc0b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195317>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 0ac14603-750b-4c28-a9c3-6303c5f23c4f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419531b>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> e6b3e2de-b6e4-424b-b5de-cc9a66f12dca
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195321>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> fb3535dd-dbb2-4dba-9298-c2b923e1f079
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195329>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> 1d534f1d-e651-4e07-a9af-752da840018e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195331>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> 16c8e8c7-4f02-4d7a-86f2-dea8ef01ae6f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195337>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> 8d47a427-7cee-41e2-9d52-bcfcf87d2f32
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195343>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> 7e2500b4-fa5f-4609-aac9-46d1cd300d25
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419535f>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 87ec0207-1435-4691-a462-99d05b9b5942
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195361>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 42ca9c9c-b87e-43bc-adbd-c85eab5006d8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195363>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 2f98725c-e485-4cb5-a2ce-aa0a9a481967
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195365>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> f7cb07d3-07e8-42d0-9c1b-3e1731fd06b2
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195367>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 773b6953-11af-4cf3-9964-f0eaba25899c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195369>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 71ce4e10-1785-4841-a95c-4c00e677de82
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419536b>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> a19a4ec8-4802-468a-a945-d0e734d394dd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419536d>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 4df4dc8b-f8b3-430b-ac52-93dc7689ff7b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419536f>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 97a71cf8-2ca2-4f7b-b96c-cecc050c501d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195371>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> b2052c4d-05e2-4f4b-8582-2b2b63c250a3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195373>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> c8e340c8-e0f0-4d86-b3fd-58caccd948c9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195375>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> aabbce2c-d773-4dfc-bf1f-4108fe62627d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195377>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 12f69d96-e863-46e2-9427-f5b76c7827fd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195379>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 278ddac1-7009-4c6a-8962-c7d4947671c3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419537b>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 75701ec1-374d-42eb-9ef0-60231dd6dfd1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419537d>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 2d66d773-4f9e-4cf1-a105-b06decc36f22
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419537f>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> f44f37e9-01c0-4bae-8bde-d736c7ebef4b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195381>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 0183eabb-917d-414e-9276-4659f818d7f7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195383>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 951cabed-a2b5-46c4-855a-6405e8da7b75
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195385>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> da5233ca-e295-4165-a62c-1d3d172c7763
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195387>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 85b9557a-7a22-4c3d-a1f6-17ac0945aced
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195389>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 252e9c92-8ff4-435d-bf01-11b4cc8849ad
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419538b>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> cc522cb3-14de-4b82-a1ff-1f4954484f08
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419538d>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 06d7a8ac-b520-43a0-8e51-1607c27ffbd0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419538f>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> a8c88cf9-7aa0-421f-a02a-83b1c5f02e75
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195393>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 9806214c-fed6-4316-9822-bb6d72179503
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195395>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 74616af1-5d80-4082-8827-0fab792b1302
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195397>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> b999f2ac-3229-44e5-88cb-a47d810827c8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb74195399>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 177d4877-f7e6-44e5-b608-212ae4c81a3e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419539b>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 61468dd1-df5f-4b92-9444-a895c23e67d2
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419539d>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 9609e60d-4c6b-449e-a958-7b18a36163e4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb7419539f>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 6d61cdbd-e3de-4bd8-af27-b43faba29bc4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741953a1>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> 59b8ab25-fe45-4b44-9adc-c0d39ba0ace2
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/227422b4-52df-6655-d08f-00bb741953a3>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d29d568b-0509-47e0-a94a-6511b49802cc
+  Mesh: !<reference> 9df382c3-4d1b-4789-b5aa-5236e226eb58
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/25a6b393-8301-4804-596d-e999485cc525>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195303
+- !<SceneObject/27ef917c-a494-4470-6393-2dbba65be11d>
+  PrefabRemaps:
+    []
+  Name: Steel string 6
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2c56be11-d00a-4ccb-64f6-86b00cebeb2f
+- !<SceneObject/295f8b19-9247-4a3c-7f9f-721fe132a650>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e629ceaf-5289-468c-56d2-e666568f2b05
+- !<RenderMeshVisual/2978debc-3a8e-41f2-466e-6ecaa7576544>
+  PrefabRemaps:
+    []
+  Name: Tapered neck
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2360a467-8eb3-4785-b1d9-28d5496fe3bc
+  Mesh: !<reference> 8c03e4fc-5b24-4e5c-acb3-c725c06e0352
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2aa29a8e-4a92-49b3-52ce-175ed202e699>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195393
+- !<RenderMeshVisual/2c56be11-d00a-4ccb-64f6-86b00cebeb2f>
+  PrefabRemaps:
+    []
+  Name: Steel string 6
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> ce1b2d5e-e2c4-4618-b853-8e655d1a81c4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2d3fdd40-1805-4393-6a9b-03932e3b2a6e>
+  PrefabRemaps:
+    []
+  Name: Pinky curled tip
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 757d93b7-5dfa-4be6-7d4f-9b92d789fbb1
+- !<SceneObject/2dfea51c-ffad-4b1d-5c65-7ad9da0105aa>
+  PrefabRemaps:
+    []
+  Name: Fret 4
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9e73a98d-6c5b-4596-650d-9187d1359650
+- !<RenderMeshVisual/2efb5806-59f2-4400-49f4-fb22576c8769>
+  PrefabRemaps:
+    []
+  Name: Bridge
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> dc04e8fa-1bef-4fde-9760-22fa2f2d60f0
+  Mesh: !<reference> f7540c67-c54b-4f83-a0e3-9f8ee828017c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/317ec284-be85-4e56-4ab1-aeb2b195ea83>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195329
+- !<RenderMeshVisual/31e96525-f742-4a99-553b-a26df0a8cd57>
+  PrefabRemaps:
+    []
+  Name: Pinky base
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> 6d957724-b473-4425-a507-4e46e083a3f6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/31fb179a-e558-434a-69f0-6c6389c9fa4a>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419537f
+- !<SceneObject/329cd500-577d-4158-61e2-b1f7f012873d>
+  PrefabRemaps:
+    []
+  Name: Fret 10
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 525f49d8-cc5d-4a68-7515-0a6ec8f6a535
+- !<RenderMeshVisual/34756fca-ecc4-4c3b-5785-5a658dbd4302>
+  PrefabRemaps:
+    []
+  Name: Fret 1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> f461596d-97be-4007-9703-7fc5095827fa
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/361dbf1f-1036-4c5a-7f8f-71d7266b5b01>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952f3
+- !<SceneObject/362e7561-1109-42d0-6c1a-7f07559276e5>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195381
+- !<RenderMeshVisual/36336190-9fb9-4fef-6a19-7430931ae4fa>
+  PrefabRemaps:
+    []
+  Name: Spruce soundboard
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0ba4bb55-defa-4e01-88ba-8fb49a8bb18c
+  Mesh: !<reference> 9cdcbc73-06bd-48bc-a120-16aa5612bf93
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/36facda6-93de-4226-778f-0936bb1387f3>
+  PrefabRemaps:
+    []
+  Name: Fret 16
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 98f2e5e8-f95b-47cb-ab5c-f429eae1f731
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/37f0d487-42e1-4570-649f-9b4a509bcd57>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195363
+- !<SceneObject/3975c2f7-e2f5-4384-72d9-bcde9eff497f>
+  PrefabRemaps:
+    []
+  Name: Bridge
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2efb5806-59f2-4400-49f4-fb22576c8769
+- !<RenderMeshVisual/3ce5277f-470e-4e23-5b4a-a117e618e2ec>
+  PrefabRemaps:
+    []
+  Name: Index base
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> af3d9a57-4cec-476b-accb-a37db30ec7cf
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3d8a53fc-f441-4558-59c0-d481d4183e22>
+  PrefabRemaps:
+    []
+  Name: Middle curled tip
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1700be3d-c9b7-4576-5477-cb5560018a87
+- !<SceneObject/3dd28c5d-1711-4f98-58a8-8fa017558975>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952ff
+- !<SceneObject/4096d654-bf55-46da-67fe-26afd8bebeb8>
+  PrefabRemaps:
+    []
+  Name: Nut
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6e7d51aa-e67f-4fce-6d2c-75ff4ef41f8c
+- !<SceneObject/409f74f7-fe20-48ca-6211-759840cbaa30>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195377
+- !<SceneObject/460a6bb8-8095-496d-64b2-21fe6bdb7671>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195385
+- !<SceneObject/477d3365-0213-41bd-432c-df94a099b283>
+  PrefabRemaps:
+    []
+  Name: Fret 3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 76aebd4d-50c6-42ee-5046-1ea6b626da23
+- !<SceneObject/48f6f6c3-c329-4b42-7f4f-78b4913b51f0>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419535f
+- !<RenderMeshVisual/4bf52427-6202-4ee1-448f-f36f2c29db41>
+  PrefabRemaps:
+    []
+  Name: Steel string 3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 9fd83261-bec2-44c8-89fd-237d91a375b5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/4d40645c-176f-453f-67e9-8489d481c6ff>
+  PrefabRemaps:
+    []
+  Name: Sound hole
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f6d9d278-b6bb-4677-6ef9-df3cb1e7379c
+- !<RenderMeshVisual/525f49d8-cc5d-4a68-7515-0a6ec8f6a535>
+  PrefabRemaps:
+    []
+  Name: Fret 10
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> b3166871-1020-495d-8800-5665919ed2dc
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/538b4e47-cf3b-4c4e-7160-6fb8509b8960>
+  PrefabRemaps:
+    []
+  Name: Ring base
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> 3cdda02e-480d-4c5f-96a5-b1e7b04d1a4b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/552798a3-9b82-4536-6a8d-2339072aa223>
+  PrefabRemaps:
+    []
+  Name: Fret 15
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a191ceda-02a7-4ca8-5c9c-ee7b0bc9afca
+- !<RenderMeshVisual/5549a12a-b8c9-4238-7b88-c666683b3b5c>
+  PrefabRemaps:
+    []
+  Name: Fret 7
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> bc8efeae-374c-46ee-9400-bbcb611033e3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/56f58272-0ed4-4704-70c0-f87196026680>
+  PrefabRemaps:
+    []
+  Name: Ring curled tip
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8c6c5cdc-0cb5-4b78-618f-7a26243ea827
+- !<SceneObject/57386935-1b9f-4b4f-5adc-43f782911850>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419538d
+- !<SceneObject/5a2ec126-6814-47b9-4289-0188dc9be82a>
+  PrefabRemaps:
+    []
+  Name: Rosette inlay
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ef0e2034-1131-45f9-4f8d-8c82fa1ac670
+- !<RenderMeshVisual/5dd4f2db-915e-4ce4-4d51-72b01b20479d>
+  PrefabRemaps:
+    []
+  Name: Steel string 2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 9092b4ba-e28b-4270-80f6-94d8e752a4ba
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/60f79c96-660b-4f75-59db-6831ddcc0120>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952f7
+- !<SceneObject/62a06a56-23de-47ac-63af-06ff795ffa85>
+  PrefabRemaps:
+    []
+  Name: Steel string 4
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f99812fa-52d6-48e7-7849-80ba93f48fc3
+- !<SceneObject/669de5f9-e725-4186-5ace-a46930f86c35>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195387
+- !<SceneObject/6793b969-eb2a-4dd5-65fb-982ab16c686d>
+  PrefabRemaps:
+    []
+  Name: Seated fretting arm sleeve
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fc9493df-d6f9-4786-7396-2f85e50f50c7
+- !<RenderMeshVisual/689c99a7-287f-41d2-4fe4-8fc46913d735>
+  PrefabRemaps:
+    []
+  Name: Guitar sides
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2360a467-8eb3-4785-b1d9-28d5496fe3bc
+  Mesh: !<reference> 0d41a890-5d45-4dd2-8b5e-9d6d8e9579d4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/69e1299c-31cf-4ef7-7af2-6fe86f20db06>
+  PrefabRemaps:
+    []
+  Name: Index fingernail
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 18f55705-edd3-4ba9-875e-93ef1fef9d58
+  Mesh: !<reference> 7a74b614-93dc-4aa6-9804-9cd00c31068c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/6c0bbbad-7574-49ae-4d1e-4dd1f6209165>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195337
+- !<RenderMeshVisual/6e7d51aa-e67f-4fce-6d2c-75ff4ef41f8c>
+  PrefabRemaps:
+    []
+  Name: Nut
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> d4113ba6-0c28-4d5e-aacc-5c354bdc79a9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/6ec8fa1b-7c17-4ebd-8dd0-aab157f3241d>
+  Prototype: !<ObjectOwner/a82ad842-31f7-4a92-9e55-2d998b622431>
+    PackagePath: ""
+    objects:
+      - !<own> a38fa60f-a4d2-47ab-51a3-caaba8b56bbe
+- !<SceneObject/6f51614b-e6f1-4521-6cdf-114552818cf7>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419536d
+- !<SceneObject/6f7d409d-80ad-4138-7e96-414ff7e16c8e>
+  PrefabRemaps:
+    []
+  Name: Index fingernail
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 69e1299c-31cf-4ef7-7af2-6fe86f20db06
+- !<SceneObject/6fbf9009-93ce-4f08-6693-8d9098e6721c>
+  PrefabRemaps:
+    []
+  Name: Fret 8
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e6aba068-0b1a-4169-6380-bec8f4623aa1
+- !<SceneObject/6fe2748b-b100-443f-765b-a0f8a0d0f913>
+  PrefabRemaps:
+    []
+  Name: Headstock
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0ab7e934-6a6a-4518-5207-e7fa14a2ef11
+- !<SceneObject/70a9a550-29e6-4b41-6d5b-730355562984>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195395
+- !<SceneObject/70ce9c98-d567-47aa-52b9-f847fe754baf>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195307
+- !<RenderMeshVisual/71a4908f-8b24-419b-62bc-5d5ed8dfe169>
+  PrefabRemaps:
+    []
+  Name: Fret 9
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 9d669d6a-b38a-4e8d-8913-fa5ce785812d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/72577660-e561-4d44-4f45-d5a14b4d3320>
+  PrefabRemaps:
+    []
+  Name: Steel string 5
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 19f100b1-5a01-493e-5ad0-7fd7a2baa9fb
+- !<SceneObject/72dfe919-08bd-47a5-62b5-893daf224133>
+  PrefabRemaps:
+    []
+  Name: Steel string 3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4bf52427-6202-4ee1-448f-f36f2c29db41
+- !<SceneObject/735cec40-ceac-4463-494e-a02ee0dabcd3>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419539f
+- !<RenderMeshVisual/757d93b7-5dfa-4be6-7d4f-9b92d789fbb1>
+  PrefabRemaps:
+    []
+  Name: Pinky curled tip
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> c8a96477-4dd7-46e3-8a30-1a0aa74a04a4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/75cb6d4a-7a74-4f1d-6103-6216527f3906>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195343
+- !<RenderMeshVisual/76aebd4d-50c6-42ee-5046-1ea6b626da23>
+  PrefabRemaps:
+    []
+  Name: Fret 3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> cfdae77a-ab26-40f5-a435-1f04ffedbd32
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7840b4b7-535f-41ef-498e-26497a033caf>
+  PrefabRemaps:
+    []
+  Name: Spruce soundboard
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 36336190-9fb9-4fef-6a19-7430931ae4fa
+- !<SceneObject/78c6fb22-17d8-49b9-67eb-aa7afb35ec3d>
+  PrefabRemaps:
+    []
+  Name: Steel string 1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a95b16b8-5750-48c7-513a-74e05ff0e1e6
+- !<SceneObject/797432fd-4f28-4242-7dcd-722cd577309e>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952fb
+- !<SceneObject/7f0f8095-6077-4cb6-5230-698f93373eb1>
+  PrefabRemaps:
+    []
+  Name: Fret 1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 34756fca-ecc4-4c3b-5785-5a658dbd4302
+- !<SceneObject/80242a1c-dc79-4979-4bfa-70298410c386>
+  PrefabRemaps:
+    []
+  Name: Fret 2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 00e5fa34-4333-49b5-4cf9-bedcc9006585
+- !<SceneObject/8074a847-55e8-462b-4ff8-e3794b8dc350>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195397
+- !<SceneObject/81b69814-7ef5-477f-535e-e8bdccc4a659>
+  PrefabRemaps:
+    []
+  Name: Middle base
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d5133721-3839-415e-5833-d46d0ba4f79e
+- !<SceneObject/8428554d-8d34-4784-7c7c-3d21764d4eef>
+  PrefabRemaps:
+    []
+  Name: Steel string 2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5dd4f2db-915e-4ce4-4d51-72b01b20479d
+- !<SceneObject/85f6aa57-ec3c-4909-4df9-559fdfce0185>
+  PrefabRemaps:
+    []
+  Name: Index curled tip
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ebfea314-2c13-4821-63cc-a7aeb4ef36e3
+- !<RenderMeshVisual/8c6c5cdc-0cb5-4b78-618f-7a26243ea827>
+  PrefabRemaps:
+    []
+  Name: Ring curled tip
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> 41c64ca3-814b-4f93-98be-ffa30447ba6f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8fe83b98-7994-406b-5a91-cc8607c9654d>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419538b
+- !<RenderMeshVisual/8ff4dfd7-76e8-4364-7d23-554ef23ef3ae>
+  PrefabRemaps:
+    []
+  Name: Tapered fretboard
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> dc04e8fa-1bef-4fde-9760-22fa2f2d60f0
+  Mesh: !<reference> 0c91cc11-80bf-4a59-be7e-9e19ee9fd3b9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/90674f4b-69a2-41ae-4d42-0bb62064e293>
+  PrefabRemaps:
+    []
+  Name: Fretting palm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dfbb4271-aad8-4560-5aca-582ee825dc47
+- !<SceneObject/907470bc-5c8b-499b-75ba-becab9ea960c>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195361
+- !<RenderMeshVisual/95349040-cb07-490f-487b-ccfd281eccac>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 5fdbc8cf-dead-496d-9ae7-64a5496399c1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/959882b2-22df-42ee-5ace-dcb3c3aa800c>
+  PrefabRemaps:
+    []
+  Name: Thin guitar binding
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fca7611f-9fc5-4e1a-72ce-8c101308c38c
+- !<SceneObject/9c412fb2-a765-4aff-7de2-fdf84557d12e>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952ed
+- !<SceneObject/9e0f6256-78a3-4d0c-5d3c-8d27f23954b2>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419530f
+- !<RenderMeshVisual/9e73a98d-6c5b-4596-650d-9187d1359650>
+  PrefabRemaps:
+    []
+  Name: Fret 4
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 5da813ae-1aa5-49e7-aaaa-0fa6dc153d34
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/9ead5308-62f7-4b6d-7eeb-0d5312d0f445>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741952fd
+- !<SceneObject/a176b666-1e2e-4a05-4b8b-922f80f602dd>
+  PrefabRemaps:
+    []
+  Name: Fret 12
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dad9f5cc-c777-4d13-782f-035e3d7c28bc
+- !<RenderMeshVisual/a191ceda-02a7-4ca8-5c9c-ee7b0bc9afca>
+  PrefabRemaps:
+    []
+  Name: Fret 15
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 5ea586b0-0c1e-4952-b0db-dc7afd22c94e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a2e21a34-e43a-4d78-755d-260663119a2c>
+  PrefabRemaps:
+    []
+  Name: Fret 14
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dd2f9761-5056-4d87-775e-aa8afa9f4a92
+- !<RenderMeshVisual/a315d12e-a551-4bdd-7edf-42c115bfe281>
+  PrefabRemaps:
+    []
+  Name: Fret 17
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 8bc83d80-72fd-4d3f-864f-42b9eaa142d7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a38fa60f-a4d2-47ab-51a3-caaba8b56bbe>
+  PrefabRemaps:
+    []
+  Name: SeatedGuitarReference
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d6c25ce9-8da0-4812-4352-fac7a59c04ff
+  Components:
+    []
+- !<SceneObject/a60ca5e9-20a9-46a4-42bc-ed5470f6928c>
+  PrefabRemaps:
+    []
+  Name: Pickguard
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> eacd3b3d-3aea-47a5-6564-5c359969a75b
+- !<SceneObject/a6ab9125-f65c-4899-786b-ca9c0b839dea>
+  PrefabRemaps:
+    []
+  Name: Rosette
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dd29fa02-8d0e-4f67-768f-ebc79419fba4
+- !<SceneObject/a75a2e92-1cb0-452b-4e88-5c124db37ea3>
+  PrefabRemaps:
+    []
+  Name: Saddle
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 15fe3dff-a28c-4e4f-552a-cc56c55c72ec
+- !<SceneObject/a75d6be2-eebf-42ea-6ac1-324e92e4e56e>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419537b
+- !<SceneObject/a7fd052e-f502-4b47-729d-ec2661722d76>
+  PrefabRemaps:
+    []
+  Name: Pinky fingernail
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bef5e6d7-a58e-4709-7947-4755adbfc399
+- !<SceneObject/a8483466-30d4-4bee-6ad6-bd05829e1e97>
+  PrefabRemaps:
+    []
+  Name: Fret 5
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e0487122-ee0b-4d62-5558-72d1e5309de7
+- !<RenderMeshVisual/a95b16b8-5750-48c7-513a-74e05ff0e1e6>
+  PrefabRemaps:
+    []
+  Name: Steel string 1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> a05fb4a0-b382-4a79-8707-771749ffef93
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/aa18aaee-4de1-47ce-5672-d66ee788f910>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> a9463ef9-640a-4baa-8220-2a4358c7f2f0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/aa3b38ca-5b14-442c-4f1d-34e09ba7f88e>
+  PrefabRemaps:
+    []
+  Name: Fret 13
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> af028fc9-3446-4c8d-43ec-7a517228baa2
+- !<SceneObject/ab0afeb6-6efc-4cf9-4e70-cc4a8e07a784>
+  PrefabRemaps:
+    []
+  Name: Seated guitar study (preview fixture)
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f17b53ca-d76d-43d1-62d3-e4a56b06f6c2
+    - !<own> 959882b2-22df-42ee-5ace-dcb3c3aa800c
+    - !<own> 7840b4b7-535f-41ef-498e-26497a033caf
+    - !<own> eecfa0e9-57b3-4e14-5c4c-318547e27848
+    - !<own> b844ef46-e0d8-4951-6373-dee56396da1c
+    - !<own> 735cec40-ceac-4463-494e-a02ee0dabcd3
+    - !<own> d190aafc-dcb1-4283-7784-40a71083b0ba
+    - !<own> edef20ed-100f-4720-7d24-dd290dd27d2c
+    - !<own> fa139a90-b486-4717-4280-a0bf725fb212
+    - !<own> 8074a847-55e8-462b-4ff8-e3794b8dc350
+    - !<own> 70a9a550-29e6-4b41-6d5b-730355562984
+    - !<own> 2aa29a8e-4a92-49b3-52ce-175ed202e699
+    - !<own> 295f8b19-9247-4a3c-7f9f-721fe132a650
+    - !<own> 038130a2-626a-4fee-6a93-92cfbb4ae75e
+    - !<own> 57386935-1b9f-4b4f-5adc-43f782911850
+    - !<own> 8fe83b98-7994-406b-5a91-cc8607c9654d
+    - !<own> ae84efb4-2588-489b-48dd-bc66ac709cd6
+    - !<own> 669de5f9-e725-4186-5ace-a46930f86c35
+    - !<own> 460a6bb8-8095-496d-64b2-21fe6bdb7671
+    - !<own> b7774d7c-eb66-40c3-7dd5-c65c690bcd77
+    - !<own> 362e7561-1109-42d0-6c1a-7f07559276e5
+    - !<own> 31fb179a-e558-434a-69f0-6c6389c9fa4a
+    - !<own> f5ed1832-3b2d-4bb4-6a88-d7705f8d3a6c
+    - !<own> a75d6be2-eebf-42ea-6ac1-324e92e4e56e
+    - !<own> ee8a90d8-d731-47ea-4bbc-a3121041e448
+    - !<own> 409f74f7-fe20-48ca-6211-759840cbaa30
+    - !<own> c492afb4-d461-486e-42dc-3ad45c7b7596
+    - !<own> abb4f7a0-b281-42c9-7b52-4dbc87198ec7
+    - !<own> 1f35468b-eea8-4c1b-4dd2-bef6fa4ea246
+    - !<own> 03b83651-1f46-461f-5ce7-241f5b8051a3
+    - !<own> 6f51614b-e6f1-4521-6cdf-114552818cf7
+    - !<own> b7dcdc03-0dfe-482e-527f-ea116929580b
+    - !<own> 070985f4-8d6a-45ff-7938-6e55b6162093
+    - !<own> cc40da88-1b0b-405b-671a-4cde06080131
+    - !<own> e1a81c27-8149-401a-6c84-4ef7fb46bf5f
+    - !<own> 37f0d487-42e1-4570-649f-9b4a509bcd57
+    - !<own> 907470bc-5c8b-499b-75ba-becab9ea960c
+    - !<own> 48f6f6c3-c329-4b42-7f4f-78b4913b51f0
+    - !<own> a6ab9125-f65c-4899-786b-ca9c0b839dea
+    - !<own> 5a2ec126-6814-47b9-4289-0188dc9be82a
+    - !<own> 4d40645c-176f-453f-67e9-8489d481c6ff
+    - !<own> a60ca5e9-20a9-46a4-42bc-ed5470f6928c
+    - !<own> 3975c2f7-e2f5-4384-72d9-bcde9eff497f
+    - !<own> a75a2e92-1cb0-452b-4e88-5c124db37ea3
+    - !<own> b98b5768-abe5-4963-7ac1-8d05139188b1
+    - !<own> 0d1b853d-338e-4c65-48c2-f92a6e748832
+    - !<own> 6fe2748b-b100-443f-765b-a0f8a0d0f913
+    - !<own> 4096d654-bf55-46da-67fe-26afd8bebeb8
+    - !<own> 7f0f8095-6077-4cb6-5230-698f93373eb1
+    - !<own> 80242a1c-dc79-4979-4bfa-70298410c386
+    - !<own> 477d3365-0213-41bd-432c-df94a099b283
+    - !<own> 75cb6d4a-7a74-4f1d-6103-6216527f3906
+    - !<own> 2dfea51c-ffad-4b1d-5c65-7ad9da0105aa
+    - !<own> a8483466-30d4-4bee-6ad6-bd05829e1e97
+    - !<own> 187545bb-7f51-46c9-55b8-99c5ff89c2dd
+    - !<own> 0529b6eb-50ec-47c5-4e42-ff03e17398e7
+    - !<own> 082dcaeb-5cc7-4301-754f-b17cd231a646
+    - !<own> 6c0bbbad-7574-49ae-4d1e-4dd1f6209165
+    - !<own> 6fbf9009-93ce-4f08-6693-8d9098e6721c
+    - !<own> cb45f5f0-7353-4029-53dc-5b10e2ffc488
+    - !<own> ec82c6dc-1300-4e9d-6359-dea6a2dbbee3
+    - !<own> 329cd500-577d-4158-61e2-b1f7f012873d
+    - !<own> f7a0f34a-1e80-4eae-421c-d36dabb02ae5
+    - !<own> a176b666-1e2e-4a05-4b8b-922f80f602dd
+    - !<own> 317ec284-be85-4e56-4ab1-aeb2b195ea83
+    - !<own> aa3b38ca-5b14-442c-4f1d-34e09ba7f88e
+    - !<own> a2e21a34-e43a-4d78-755d-260663119a2c
+    - !<own> 552798a3-9b82-4536-6a8d-2339072aa223
+    - !<own> 1c38dc84-a192-4fdc-7cf3-9a9c9762e5eb
+    - !<own> ba81eb45-d912-4ee6-4a42-b92092e63600
+    - !<own> e77f780b-868f-4aed-46e0-aae0bed08098
+    - !<own> e9e32db3-9d90-4c2f-4f48-98864dc373a1
+    - !<own> 78c6fb22-17d8-49b9-67eb-aa7afb35ec3d
+    - !<own> 0b474012-aac9-4b0c-796b-30f442e9e750
+    - !<own> 1e9b34e8-a556-4fdd-50b2-139e198bebee
+    - !<own> 097fc9f8-02c5-482c-41c1-3ab44905d903
+    - !<own> 8428554d-8d34-4784-7c7c-3d21764d4eef
+    - !<own> 9e0f6256-78a3-4d0c-5d3c-8d27f23954b2
+    - !<own> e4657dea-4622-4ea8-6349-c8fd4f22bbf9
+    - !<own> d7acb160-7ac9-4bfe-4cf2-e5ae82cf58aa
+    - !<own> 72dfe919-08bd-47a5-62b5-893daf224133
+    - !<own> 70ce9c98-d567-47aa-52b9-f847fe754baf
+    - !<own> b9d9173e-d444-4f0a-67f9-a241a6a3e53f
+    - !<own> 25a6b393-8301-4804-596d-e999485cc525
+    - !<own> 62a06a56-23de-47ac-63af-06ff795ffa85
+    - !<own> 3dd28c5d-1711-4f98-58a8-8fa017558975
+    - !<own> 9ead5308-62f7-4b6d-7eeb-0d5312d0f445
+    - !<own> 797432fd-4f28-4242-7dcd-722cd577309e
+    - !<own> 72577660-e561-4d44-4f45-d5a14b4d3320
+    - !<own> 60f79c96-660b-4f75-59db-6831ddcc0120
+    - !<own> bf30f352-3a33-422b-7401-738cab84a916
+    - !<own> 361dbf1f-1036-4c5a-7f8f-71d7266b5b01
+    - !<own> 27ef917c-a494-4470-6393-2dbba65be11d
+    - !<own> e91a3754-d998-425d-5ff3-86ba131cc6df
+    - !<own> 9c412fb2-a765-4aff-7de2-fdf84557d12e
+    - !<own> 19d03cdc-0399-4b35-7a4e-8780534c1f8c
+    - !<own> 6793b969-eb2a-4dd5-65fb-982ab16c686d
+    - !<own> b378f854-1ffc-48c5-6575-1b731b687b9f
+    - !<own> 90674f4b-69a2-41ae-4d42-0bb62064e293
+    - !<own> e7093628-96d0-46ba-6770-939213645035
+    - !<own> c67e9bfd-e88d-41bd-51c1-bef38c72af8d
+    - !<own> 85f6aa57-ec3c-4909-4df9-559fdfce0185
+    - !<own> 6f7d409d-80ad-4138-7e96-414ff7e16c8e
+    - !<own> 81b69814-7ef5-477f-535e-e8bdccc4a659
+    - !<own> 3d8a53fc-f441-4558-59c0-d481d4183e22
+    - !<own> 20724f36-58f3-4130-5357-67ef36ff4f40
+    - !<own> c57c450f-506e-4c5f-75d0-ffed810024bc
+    - !<own> 56f58272-0ed4-4704-70c0-f87196026680
+    - !<own> b4ed510c-e563-461d-6612-275fa779e089
+    - !<own> b1f95c01-95ea-459e-6184-24c6f2f5666d
+    - !<own> 2d3fdd40-1805-4393-6a9b-03932e3b2a6e
+    - !<own> a7fd052e-f502-4b47-729d-ec2661722d76
+  Components:
+    []
+- !<SceneObject/abb4f7a0-b281-42c9-7b52-4dbc87198ec7>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195373
+- !<SceneObject/ae84efb4-2588-489b-48dd-bc66ac709cd6>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195389
+- !<RenderMeshVisual/af028fc9-3446-4c8d-43ec-7a517228baa2>
+  PrefabRemaps:
+    []
+  Name: Fret 13
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 01ed0535-7eb0-426f-80c6-330dd51b105c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b1f95c01-95ea-459e-6184-24c6f2f5666d>
+  PrefabRemaps:
+    []
+  Name: Pinky base
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 31e96525-f742-4a99-553b-a26df0a8cd57
+- !<SceneObject/b378f854-1ffc-48c5-6575-1b731b687b9f>
+  PrefabRemaps:
+    []
+  Name: Wrist
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1467f1ff-f61f-4228-6f89-88a81b4a5db6
+- !<RenderMeshVisual/b4dc7635-4c89-40ae-51ef-410d05e1aab7>
+  PrefabRemaps:
+    []
+  Name: Fret 6
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> b3f5ac4d-be60-4978-9416-8403d5e91e37
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b4ed510c-e563-461d-6612-275fa779e089>
+  PrefabRemaps:
+    []
+  Name: Ring fingernail
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ddfd27c1-a5a2-4aad-66cf-cd8384a8cd5b
+- !<RenderMeshVisual/b718bda4-6fb6-4929-4b87-94c8b1511f45>
+  PrefabRemaps:
+    []
+  Name: Thumb behind neck
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b38ca6d2-fb2c-4ee5-862c-fabe3440a90e
+  Mesh: !<reference> 4fd002fb-705f-4e19-bc18-7501659955a3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b7774d7c-eb66-40c3-7dd5-c65c690bcd77>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195383
+- !<SceneObject/b7dcdc03-0dfe-482e-527f-ea116929580b>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419536b
+- !<SceneObject/b844ef46-e0d8-4951-6373-dee56396da1c>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741953a1
+- !<SceneObject/b98b5768-abe5-4963-7ac1-8d05139188b1>
+  PrefabRemaps:
+    []
+  Name: Tapered neck
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2978debc-3a8e-41f2-466e-6ecaa7576544
+- !<SceneObject/b9d9173e-d444-4f0a-67f9-a241a6a3e53f>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195305
+- !<SceneObject/ba81eb45-d912-4ee6-4a42-b92092e63600>
+  PrefabRemaps:
+    []
+  Name: Fret 16
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 36facda6-93de-4226-778f-0936bb1387f3
+- !<RenderMeshVisual/bef5e6d7-a58e-4709-7947-4755adbfc399>
+  PrefabRemaps:
+    []
+  Name: Pinky fingernail
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 18f55705-edd3-4ba9-875e-93ef1fef9d58
+  Mesh: !<reference> eadc0650-34d1-4eab-b7f1-4b18459e1f46
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/bf30f352-3a33-422b-7401-738cab84a916>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1e902c14-fb35-420d-5338-e5051eac2d36
+- !<SceneObject/c492afb4-d461-486e-42dc-3ad45c7b7596>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195375
+- !<SceneObject/c57c450f-506e-4c5f-75d0-ffed810024bc>
+  PrefabRemaps:
+    []
+  Name: Ring base
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 538b4e47-cf3b-4c4e-7160-6fb8509b8960
+- !<SceneObject/c67e9bfd-e88d-41bd-51c1-bef38c72af8d>
+  PrefabRemaps:
+    []
+  Name: Index base
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3ce5277f-470e-4e23-5b4a-a117e618e2ec
+- !<SceneObject/cb45f5f0-7353-4029-53dc-5b10e2ffc488>
+  PrefabRemaps:
+    []
+  Name: Fret 9
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 71a4908f-8b24-419b-62bc-5d5ed8dfe169
+- !<SceneObject/cc40da88-1b0b-405b-671a-4cde06080131>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195367
+- !<SceneObject/d190aafc-dcb1-4283-7784-40a71083b0ba>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419539d
+- !<RenderMeshVisual/d5133721-3839-415e-5833-d46d0ba4f79e>
+  PrefabRemaps:
+    []
+  Name: Middle base
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> a3c130d2-b769-479f-9cc2-4534d15bf76a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/d6c25ce9-8da0-4812-4352-fac7a59c04ff>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ab0afeb6-6efc-4cf9-4e70-cc4a8e07a784
+  Components:
+    []
+- !<SceneObject/d7acb160-7ac9-4bfe-4cf2-e5ae82cf58aa>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f79499f9-9d41-4ddd-62cd-b5f142b2cec3
+- !<RenderMeshVisual/dad9f5cc-c777-4d13-782f-035e3d7c28bc>
+  PrefabRemaps:
+    []
+  Name: Fret 12
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 85e076a2-cb4a-4ace-97b3-f85a1024c650
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/dd29fa02-8d0e-4f67-768f-ebc79419fba4>
+  PrefabRemaps:
+    []
+  Name: Rosette
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 34b981f6-7e58-44b7-b117-226bd5ec5d17
+  Mesh: !<reference> 1118e5d9-81e0-44f9-aeff-b517a2de1af4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/dd2f9761-5056-4d87-775e-aa8afa9f4a92>
+  PrefabRemaps:
+    []
+  Name: Fret 14
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> fe44ff8f-c515-486a-84aa-54297b44fd99
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/ddfd27c1-a5a2-4aad-66cf-cd8384a8cd5b>
+  PrefabRemaps:
+    []
+  Name: Ring fingernail
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 18f55705-edd3-4ba9-875e-93ef1fef9d58
+  Mesh: !<reference> d1c68a37-79ea-495c-9e69-9fe08247c852
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/dfbb4271-aad8-4560-5aca-582ee825dc47>
+  PrefabRemaps:
+    []
+  Name: Fretting palm
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> 7050badb-deb4-4328-8a8d-b6f005e0ab32
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/e0487122-ee0b-4d62-5558-72d1e5309de7>
+  PrefabRemaps:
+    []
+  Name: Fret 5
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> ec1fed11-a7f6-4a28-b575-6a1663730d4b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e1a81c27-8149-401a-6c84-4ef7fb46bf5f>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195365
+- !<SceneObject/e4657dea-4622-4ea8-6349-c8fd4f22bbf9>
+  PrefabRemaps:
+    []
+  Name: Tuner key
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419530d
+- !<RenderMeshVisual/e629ceaf-5289-468c-56d2-e666568f2b05>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6660089e-7d21-4983-9479-2dfc631156c4
+  Mesh: !<reference> b2f76dd7-536b-4e31-a9f7-2c8efcad3f84
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/e6aba068-0b1a-4169-6380-bec8f4623aa1>
+  PrefabRemaps:
+    []
+  Name: Fret 8
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 5897bc64-d1ee-4c0b-8d08-fc948360db31
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e7093628-96d0-46ba-6770-939213645035>
+  PrefabRemaps:
+    []
+  Name: Thumb behind neck
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b718bda4-6fb6-4929-4b87-94c8b1511f45
+- !<SceneObject/e77f780b-868f-4aed-46e0-aae0bed08098>
+  PrefabRemaps:
+    []
+  Name: Fret 17
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a315d12e-a551-4bdd-7edf-42c115bfe281
+- !<SceneObject/e91a3754-d998-425d-5ff3-86ba131cc6df>
+  PrefabRemaps:
+    []
+  Name: Tuner post
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 95349040-cb07-490f-487b-ccfd281eccac
+- !<SceneObject/e9e32db3-9d90-4c2f-4f48-98864dc373a1>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419531b
+- !<RenderMeshVisual/eacd3b3d-3aea-47a5-6564-5c359969a75b>
+  PrefabRemaps:
+    []
+  Name: Pickguard
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> dc04e8fa-1bef-4fde-9760-22fa2f2d60f0
+  Mesh: !<reference> a3000204-b24e-463b-b64a-23c7ee3f34bd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/ebfea314-2c13-4821-63cc-a7aeb4ef36e3>
+  PrefabRemaps:
+    []
+  Name: Index curled tip
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3818ba06-a6f6-4758-8698-5311840694a7
+  Mesh: !<reference> b5438b4c-d0b7-40c6-a226-4aca1ad5f512
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ec82c6dc-1300-4e9d-6359-dea6a2dbbee3>
+  PrefabRemaps:
+    []
+  Name: Fret marker
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195331
+- !<SceneObject/edef20ed-100f-4720-7d24-dd290dd27d2c>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419539b
+- !<SceneObject/ee8a90d8-d731-47ea-4bbc-a3121041e448>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195379
+- !<SceneObject/eecfa0e9-57b3-4e14-5c4c-318547e27848>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb741953a3
+- !<RenderMeshVisual/ef0e2034-1131-45f9-4f8d-8c82fa1ac670>
+  PrefabRemaps:
+    []
+  Name: Rosette inlay
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 204303a9-dabc-4ebe-b192-946d75dd95d5
+  Mesh: !<reference> bf81dd25-ad47-4ce7-a0f5-eae7e972bfec
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/f1322862-8ec0-4e1d-7aaf-4d77cc9da253>
+  PrefabRemaps:
+    []
+  Name: Fret 11
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> 44f38b4a-fe76-4448-b283-09fb1f116685
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f17b53ca-d76d-43d1-62d3-e4a56b06f6c2>
+  PrefabRemaps:
+    []
+  Name: Guitar sides
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 689c99a7-287f-41d2-4fe4-8fc46913d735
+- !<SceneObject/f5ed1832-3b2d-4bb4-6a88-d7705f8d3a6c>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb7419537d
+- !<RenderMeshVisual/f6d9d278-b6bb-4677-6ef9-df3cb1e7379c>
+  PrefabRemaps:
+    []
+  Name: Sound hole
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a6f14a69-cf35-405d-8b7c-a3c60975d615
+  Mesh: !<reference> ab5a7ffe-b3d9-4f4a-8801-2be3949ecb35
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/f79499f9-9d41-4ddd-62cd-b5f142b2cec3>
+  PrefabRemaps:
+    []
+  Name: Headstock string
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> ce0b47e0-c751-4f7f-8499-9ee55db74311
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f7a0f34a-1e80-4eae-421c-d36dabb02ae5>
+  PrefabRemaps:
+    []
+  Name: Fret 11
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f1322862-8ec0-4e1d-7aaf-4d77cc9da253
+- !<RenderMeshVisual/f99812fa-52d6-48e7-7849-80ba93f48fc3>
+  PrefabRemaps:
+    []
+  Name: Steel string 4
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b80d8ce9-de0a-4713-bcb1-dadb258b0573
+  Mesh: !<reference> a0eee6dd-e070-4bdc-acaa-1aaa25f85d5f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fa139a90-b486-4717-4280-a0bf725fb212>
+  PrefabRemaps:
+    []
+  Name: Soundboard grain
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 227422b4-52df-6655-d08f-00bb74195399
+- !<RenderMeshVisual/fc9493df-d6f9-4786-7396-2f85e50f50c7>
+  PrefabRemaps:
+    []
+  Name: Seated fretting arm sleeve
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c0f76a6c-88ac-406e-bed6-563278d08a0b
+  Mesh: !<reference> d886e405-c71f-4dd1-8572-cbbcada574be
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/fca7611f-9fc5-4e1a-72ce-8c101308c38c>
+  PrefabRemaps:
+    []
+  Name: Thin guitar binding
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 34b981f6-7e58-44b7-b117-226bd5ec5d17
+  Mesh: !<reference> c49f6a8b-3b56-4b5c-b746-43269698249b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/fef45528-95c8-43fc-45d9-29fa96c75607>
+  PrefabRemaps:
+    []
+  Name: Middle fingernail
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 18f55705-edd3-4ba9-875e-93ef1fef9d58
+  Mesh: !<reference> 3b5afbf6-7047-41ba-aa92-996e15f93c91
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

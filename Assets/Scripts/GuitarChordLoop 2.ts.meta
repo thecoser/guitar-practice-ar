@@ -1,0 +1,75 @@
+- !<AssetImportMetadata/c7eabfcd-5eed-4d5f-a8ce-bcea26dc0c37>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> c4667f20-23f9-4847-bd41-6c299f1476eb
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> c4667f20-23f9-4847-bd41-6c299f1476eb
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 50eb0add-3224-48a8-ac9e-15e74d0c3bc0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/50eb0add-3224-48a8-ac9e-15e74d0c3bc0>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  RunInEditor: false
+  ComponentUid: e4b37e58-c931-4410-a3c8-71fc865f6394
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bandTracks: false
+    clickAudio: false
+    clickVolume: false
+    debugColliders: false
+    panelRoot: false
+    placementDistanceCm: false
+    previewReference: false
+    sceneCamera: false
+    timingDiagnostics: false
+    ui: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - ui: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      panelRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sceneCamera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      clickAudio: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      previewReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bandTracks: !<reference.AudioTrackAsset[]>
+        []
+      placementDistanceCm: !<float> 105.000000
+      clickVolume: 0.650000
+      timingDiagnostics: true
+      debugColliders: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType_1 ui
+    - // @input SceneObject panelRoot
+    - // @input Component.Camera sceneCamera
+    - // @input Component.AudioComponent clickAudio
+    - // @input SceneObject previewReference
+    - "// @input Asset.AudioTrackAsset[] bandTracks"
+    - // @input float placementDistanceCm = 105
+    - // @input float clickVolume = 0.65
+    - // @input bool timingDiagnostics = true
+    - // @input bool debugColliders

@@ -1,0 +1,2 @@
+// Original sample chart preloaded for Lens Studio Preview.
+export const SCANNED_CHART = "{title: Morning Light}\nVerse\n[G]Morning light on the [C]windowsill\n[Em]One more mile and the [D]road is still\n[G]I take the turn where the [C]river bends\n[Am]Follow it down till the [D]highway ends\nChorus\n[C]Let the daylight [G]lead me home\n[D]Every mile has a [Em]song of its own\n[C]Keep the rhythm [G]soft and slow\n[D]Morning light, come [G]show me home\n";
